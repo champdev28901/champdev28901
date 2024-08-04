@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##<h1 align="center">Hi There👋, I'm Chanvit</h1>
+<h1 align="center">Hi There👋, I'm Chanvit</h1>
 <h3 align="left">I'm has over 5 years in Front-End Developer craft solid and Scalable front-end products with great user experiences. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
