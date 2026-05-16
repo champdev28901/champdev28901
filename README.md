@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://chanvit-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-chanvit-portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-chanvit portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
