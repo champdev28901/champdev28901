@@ -4,9 +4,8 @@
 <p align="center">
   I have nearly 8 years of experience in crafting solid and scalable front-end products with great user experiences. I am passionate about modern web technologies, interactive 3D web animations, and building robust self-hosted infrastructures.
 </p>
-
 <p align="center">
-  <a href="https://champchv.com" target="_blank">
+  <a href="https://chanvit-portfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-champchv.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
