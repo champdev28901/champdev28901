@@ -14,8 +14,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working as a **Software Engineer Specialist at TTB**.
-- 💻 I'm currently building an interactive personal portfolio using **Three.js** & **GSAP**.
+- 🔭 I’m currently working as a **Software Engineer**.
+- 💻 I'm currently building an interactive personal portfolio using **GSAP**.
 - ⚙️ I’m deeply engaged in **Self-hosting & DevOps** (running Docker, K3s, and Jenkins on my Ubuntu server).
 - 🤖 I actively integrate AI tools like **Cursor, Claude Code, and Copilot** into my workflow.
 - 🌱 I’m currently exploring automated trading systems and long-term investment strategies.
