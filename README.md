@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Chanvit</h1>
-<h3 align="center">Senior Front-End Developer | Software Engineer Specialist</h3>
+<h3 align="center">Senior Front-End Developer | Software Engineer</h3>
 
 <p align="center">
-  I have nearly 8 years of experience in crafting solid and scalable front-end products with great user experiences. I am passionate about modern web technologies, interactive 3D web animations, and building robust self-hosted infrastructures.
+  I have nearly 7 years of experience in crafting solid and scalable front-end products with great user experiences. I am passionate about modern web technologies, interactive 3D web animations, and building robust self-hosted infrastructures.
 </p>
 <p align="center">
   <a href="https://chanvit-portfolio.com" target="_blank">
@@ -26,19 +26,19 @@
 
 **Frontend Development** <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,ts,js,tailwind,html,css,redux" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,ts,js,wordpress,tailwind,html,css,redux" alt="Frontend" />
   </a>
 </p>
 
 **Backend & Infrastructure** <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,postgres,docker,kubernetes,jenkins,ubuntu" alt="Backend and DevOps" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,docker,kubernetes,jenkins,ubuntu,cloudflare" alt="Backend and DevOps" />
   </a>
 </p>
 
 **Tools & Testing** <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,playwright,vitest,jest,postman,firebase" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,figma,vitest,jest,postman,firebase,bitbucket" alt="Tools" />
   </a>
 </p>
 
