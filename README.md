@@ -32,23 +32,19 @@
 
 **Backend & Infrastructure** <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,docker,kubernetes,jenkins,ubuntu" alt="Backend and DevOps" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,postgres,docker,kubernetes,jenkins,ubuntu" alt="Backend and DevOps" />
   </a>
 </p>
 
 **Tools & Testing** <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,cypress,jest,postman,firebase" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,figma,playwright,vitest,jest,postman,firebase" alt="Tools" />
   </a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=champdev28901&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=champdev28901&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
