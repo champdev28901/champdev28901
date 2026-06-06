@@ -48,15 +48,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=champdev28901&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=champdev28901&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=champdev28901&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=champdev28901&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
